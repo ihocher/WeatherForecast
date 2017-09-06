@@ -16,6 +16,8 @@ public class app {
 		System.out.println(catalog);
 		System.out.println(catalog.get("Три"));
 
+		System.out.println("Some addition");
+
 	}
 
 	public static void putAndAdd(String s, Integer i) {
